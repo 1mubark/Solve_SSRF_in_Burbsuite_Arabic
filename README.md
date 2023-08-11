@@ -20,7 +20,7 @@
 
 4- الضغط على intercept on
 
-5 reload target page تحديث صفحة الويب المستهدفه
+5- النقر على تحديث صفحة الويب المستهدقه
 
 6- الضغط على right click  ومن ثم اختيار  send intercept to repeater. 
 
