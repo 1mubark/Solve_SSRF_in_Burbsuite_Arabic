@@ -11,15 +11,25 @@
 
 شرح خطوات تطبيق ثغرة   SSRFباستخدام أداة Burpsuite 
 اللاب الأول:
+
 1-ضبط اعداداتFoxyproxy  على المتصفح
+
 2- ضبط اعدادات Burpsuite 
+
 3- الضغط على Proxy للتفعيل
+
 4- الضغط على intercept on
+
 5 reload target page تحديث صفحة الويب المستهدفه
+
 6- الضغط على right click  ومن ثم اختيار  send intercept to repeater. 
+
 7-ومن ثم تحديد الرابط المرفق تحت مسمى Stckapi  و right click وعمل dencode 
+
 8- تغيير رابط StckApi  الى change url to http://localhost/admin  
+
 9- تحديد رابط stockapi وright click  وعمل encode
+
 10-ومن ثم click  على send intercept
 
 تهانينا لقد نجح الهجوم.
