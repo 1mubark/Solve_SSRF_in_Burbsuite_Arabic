@@ -42,11 +42,3 @@
 
 
 
-
-
-
-
-
-
-![image](https://github.com/1mubark/Solve_SSRF_in_Burbsuite_Arabic/assets/141992293/3c3e0bab-16a2-4226-8af7-6f7c4188d6ff)
-
